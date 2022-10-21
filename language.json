@@ -1,0 +1,21 @@
+{
+    "start": {
+        "admin": "👋 Welcome **admin** to the **example Limitati bot** developed by @kunode",
+        "user": "👋 Welcome to the **example Limitati** bot developed by @kunode"
+    },
+
+    "help": "**📄 List of all commands:**\n\n• **/ban (reply)** » __Ban a user__\n• **/ban (user ID)** » __Ban a user__\n• **/bans** » __Show user banned list__",
+    "banned": "🚷 **You are banned from the chat**",
+    "chat_now": "💬 **You are in chat now**, send a message for talk with the admins!",
+    "already_in_chat": "❌ **You are already in chat**, type something for talk with the admins!",
+    "invalid_userid": "❌ **Invalid userID.**",
+    "cannot_find_user": "❌ **Cannot find this user in database.**",
+    "banned_user": "🚷 %s __has been banned permanently.__",
+    "error_while_banning": "❌ **Unknown error while banning.**",
+    "unbanned_user": "🚷 %s __has been unbanned.__",
+    "you_got_banned_by": "🚷 You got banned by %s",
+    "you_got_unbanned_by": "🚷 You got unbanned by %s",
+    "cannot_ban_urself": "❌ **You can't ban urself**",
+    "cannot_ban_an_admin": "❌ **You can't ban an admin.**",
+    "incorrect_command_usage": "❌ **Incorrect command usage.**"
+}
