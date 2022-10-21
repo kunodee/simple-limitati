@@ -14,8 +14,6 @@ app = Client(
 
 logs = logging.getLogger("kunode")
 
-
-
 LEVEL_STYLES = dict(
     info=dict(color='green'),
     warning=dict(color='yellow'),
